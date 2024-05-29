@@ -60,7 +60,7 @@ export default defineConfig({
     }
   },   
   themeConfig: {
-    logo:  '/seedunk.png', 
+    logo:  './seedunk.png', 
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
