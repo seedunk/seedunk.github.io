@@ -20,8 +20,4 @@
 <!--Doc #-->
  
 
-
-
-  ![](./Resources/icon/github.svg?class=icon)
  
-  ![](/seedunk.png)
