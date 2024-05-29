@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "themekit-js": "^1.1.5"
+  },
+  "scripts": {
+    "docs:dev": "themekit-js dev",
+    "docs:build": "themekit-js build",
+    "docs:preview": "themekit-js preview"
+  }
+}
