@@ -1,8 +1,8 @@
 <!--$layout: doc-->
 <!--$lang: zh_CN-->
 <!--$en_US: /English/README.html-->
- 
-   [![](/Resources/icon/github.svg?class=icon)Seedunk](https://github.com/seedunk/?class=btn%20alt)
+
+[![](/Resources/icon/github.svg?class=icon)Seedunk](https://github.com/seedunk/?class=btn%20alt)
 
 # 个人简历 
 ![iot](/Resources/badge/iot.svg) ![java](/Resources/badge/java.svg) ![php](/Resources/badge/php.svg) ![csharp](/Resources/badge/csharp.svg)  ![mysql](/Resources/badge/mysql.svg) ![android](/Resources/badge/android.svg) ![html5](/Resources/badge/html5.svg)  ![linux](/Resources/badge/linux.svg)
