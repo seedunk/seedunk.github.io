@@ -4,13 +4,10 @@ import type { Theme } from 'themekit-js'
 import DefaultTheme from 'themekit-js/theme'
 import './style.css'
 
+import Layout from './Layout.vue'
 export default {
   extends: DefaultTheme,
-  Layout: () => {
-    return h(DefaultTheme.Layout, null, {
-      // https://vitepress.dev/guide/extending-default-theme#layout-slots
-    })
-  },
+  Layout:Layout,
   enhanceApp({ app, router, siteData }) {
     // ...
   }

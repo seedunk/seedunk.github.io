@@ -7,18 +7,18 @@ const ThemeConfigJp={
  
 const ThemeConfigCn={
   nav: [
-    { text: '关于我', link: '/README' },
+    { text: '关于我', link: '/简体中文/' },
     { text: '开始探索', link: '/简体中文/探索/README' },
     { text: 'eFACILITY', link: '/简体中文/eFACILITY/' },
   ], 
   sidebar: { 
-    '/简体中文/开发人员/': [
+    '/简体中文/': [
       {
-        text: 'Guide',
+        text: '简历',
         items: [
-          { text: 'Index', link: '/guide/' },
-          { text: 'One', link: '/guide/one' },
-          { text: 'Two', link: '/guide/two' }
+          { text: '开发人员', link: '/简体中文/开发人员' },
+          { text: 'MES', link: '/简体中文/MES' },
+          { text: 'JAVA', link: '/简体中文/JAVA' }
         ]
       }
     ]
@@ -60,7 +60,7 @@ export default defineConfig({
     }
   },   
   themeConfig: {
-    logo:  './seedunk.png', 
+    logo:  '/seedunk.png', 
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
