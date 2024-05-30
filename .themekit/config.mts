@@ -7,7 +7,7 @@ const ThemeConfigJp={
  
 const ThemeConfigCn={
   nav: [
-    { text: '关于我', link: '/简体中文/' },
+    { text: '关于我', link: '/简体中文/README' },
     { text: '开始探索', link: '/简体中文/探索/README' },
     { text: 'eFACILITY', link: '/简体中文/eFACILITY/' },
   ], 
@@ -16,7 +16,7 @@ const ThemeConfigCn={
       {
         text: '简历',
         items: [
-          { text: '开发人员', link: '/简体中文/开发人员' },
+          { text: '开发者', link: '/简体中文/README' },
           { text: 'MES', link: '/简体中文/MES' },
           { text: 'JAVA', link: '/简体中文/JAVA' }
         ]
