@@ -1,13 +1,13 @@
 <!--$layout: block-->
-<!--$lang: zh_CN--> 
-<!--$en_US: /English/--> 
+<!--$lang: en_US--> 
+<!--$zh_CN: /--> 
 <!--$ja_JP: /日本語/-->
- 
+  
 <!--#Hero--> 
-<!--$background-image:Resources/bg-2405311858.jpg--> 
+<!--$background-image:aa.jpg--> 
 <!--$color:#ffffff--> 
  ## SEEDUNK
- # 捕捉闪耀的瞬间
+ # Captured in This Magical Moment 
   
    [煌めく瞬間に捕われて](?theme=brand)&nbsp;&nbsp;[跳转2](?theme=alt)
    
@@ -15,7 +15,7 @@
 
 <!--Hero #-->
 <!--#Doc-->  
-   <br> 
+   <br>
 <!--Doc #-->
   
 <!--#Doc-->  

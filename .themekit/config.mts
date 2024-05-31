@@ -7,29 +7,35 @@ const ThemeConfigJp={
  
 const ThemeConfigCn={
   nav: [
-    { text: '关于我', link: '/简体中文/README' },
+    { text: '关于我', link: '/README' },
     { text: '开始探索', link: '/简体中文/探索/README' },
-    { text: 'eFACILITY', link: '/简体中文/eFACILITY/' },
+    { text: 'eFACILITY', link: '/简体中文/eFACILITY/README' },
   ], 
   sidebar: { 
-      '/简体中文/': [
+      '/README': [
       {
-        text: '简历',
-        items: [
-          { text: '开发者', link: '/简体中文/README' },
-          { text: 'MES', link: '/简体中文/MES' },
-          { text: 'JAVA', link: '/简体中文/JAVA' }
+        text: '',
+        items: [ 
+          { text: '', link: '/' }
         ]
-      }
-    ]
+      } 
+       ],
+       '/': [
+        {
+          text: 'cccc',
+          items: [ 
+            { text: 'JAVA', link: '/简体中文/JAVA' }
+          ]
+        } 
+         ]
   } 
 };
  
 const ThemeConfigEn ={ 
   nav: [
-    { text: 'ABOUT ME', link: '/English/' },
-    { text: 'HELLO', link: '/English/HelloWorld/' }, 
-    { text: 'eFACILITY', link: '/English/eFACILITY' } 
+    { text: 'ABOUT ME', link: '/English/README' },
+    { text: 'HELLO', link: '/English/HelloWorld/README' }, 
+    { text: 'eFACILITY', link: '/English/eFACILITY/README' } 
   ]
 };
  

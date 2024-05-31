@@ -1,21 +1,21 @@
 <!--$layout: block-->
-<!--$lang: zh_CN--> 
+<!--$lang: ja_JP--> 
 <!--$en_US: /English/--> 
-<!--$ja_JP: /日本語/-->
- 
+<!--$zh_CN: /-->
+  
 <!--#Hero--> 
-<!--$background-image:Resources/bg-2405311858.jpg--> 
+<!--$background-image:aa.jpg--> 
 <!--$color:#ffffff--> 
  ## SEEDUNK
- # 捕捉闪耀的瞬间
+ # 煌めく瞬間に捕われて 
   
-   [煌めく瞬間に捕われて](?theme=brand)&nbsp;&nbsp;[跳转2](?theme=alt)
+   [Play](?theme=brand)&nbsp;&nbsp;[跳转2](?theme=alt)
    
 
 
 <!--Hero #-->
 <!--#Doc-->  
-   <br> 
+   <br>
 <!--Doc #-->
   
 <!--#Doc-->  

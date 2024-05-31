@@ -1,15 +1,21 @@
 <!--$layout: doc-->
 <!--$lang: zh_CN-->
 <!--$en_US: /English/README.html-->
+<!--#Doc-->
+<!--$background-image: /Resources/asset-2405301417.jpg -->
+<!--$color: #ffffff -->
+# 关于我
+<!--Doc#-->
 
-[![](/Resources/icon/github.svg?class=icon)Seedunk](https://github.com/seedunk/?class=btn%20alt)
-
-# 个人简历 
-![iot](/Resources/badge/iot.svg) ![java](/Resources/badge/java.svg) ![php](/Resources/badge/php.svg) ![csharp](/Resources/badge/csharp.svg)  ![mysql](/Resources/badge/mysql.svg) ![android](/Resources/badge/android.svg) ![html5](/Resources/badge/html5.svg)  ![linux](/Resources/badge/linux.svg)
-
+<!--#Doc-->
 ## 概况
+ ![iot](/Resources/badge/iot.svg) ![java](/Resources/badge/java.svg) ![php](/Resources/badge/php.svg) ![csharp](/Resources/badge/csharp.svg)  ![mysql](/Resources/badge/mysql.svg) ![android](/Resources/badge/android.svg) ![html5](/Resources/badge/html5.svg)  ![linux](/Resources/badge/linux.svg)
+
  * 席日飞/男/1989/江苏常州/10年开发经验
  * 手机号 **18661120669**, 邮箱 **seedunk@outlook.com**
+
+ [![](/Resources/icon/github.svg?class=icon)Seedunk](https://github.com/seedunk/?class=btn%20alt)
+
 
 ## 技能
  * **前端技术** 熟练掌握HTML/JS/CSS等基础技能，有H5嵌入原生应用交互经验。
@@ -138,3 +144,4 @@
 
 
  
+<!--Doc#-->
