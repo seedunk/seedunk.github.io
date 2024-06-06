@@ -39,8 +39,8 @@ const ThemeConfigEn ={
   ]
 };
  
-const siteBase="/"
-export default defineConfig({
+const siteBase="/app/dist/" 
+export default defineConfig({ 
   title: "Seedunk",  
   base:siteBase,
   themeName: "default theme + customization",
