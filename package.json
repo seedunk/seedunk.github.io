@@ -5,10 +5,10 @@
     "docs:preview": "themekit-js preview"
   },
   "dependencies": {
-    "markdown-it": "^14.1.0",
-    "themekit-js": "^1.49.2618"
+      "markdown-it": "^14.1.0", 
+     
+      "themekit-js":"1.0503.1321",
+      "vite-plugin-remote-assets": "^0.4.1"
   },
-  "devDependencies": {
-    "vite-plugin-remote-assets": "^0.4.1"
-  }
-}
+  "note_themekit-js":  "file:../com.seedunk.test/themekit-js"  
+} 
