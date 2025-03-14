@@ -23,6 +23,7 @@
        
  <video controls>
   <source src="https://seedunk.com/media/github-seedunk/t9929.m3u8" type="application/x-mpegURL">
+  <source src="https://seedunk.com/media/github-seedunk/t9929.mp4" type="video/mp4">
   您的浏览器不支持视频播放。
 </video>
 <!--Timeline#-->
