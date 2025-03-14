@@ -1,5 +1,6 @@
 import { defineConfig } from 'themekit-js'
-
+import RemoteAssets from 'vite-plugin-remote-assets'
+const siteBase="/" 
 // https://vitepress.dev/reference/site-config
 const ThemeConfigJp={
   nav: []   
@@ -7,9 +8,10 @@ const ThemeConfigJp={
  
 const ThemeConfigCn={
   nav: [
-    { text: '关于我', link: '/README' },
-    { text: '开始探索', link: '/简体中文/探索/README' },
-    { text: 'eFACILITY', link: '/简体中文/eFACILITY/README' },
+    { text: '关于我', link: '/README' }, 
+    { text: '开发人员', link: '/简体中文/开发人员/README' },
+    { text: 'SLAMDUNK', link: '/简体中文/SLAMDUNK/README' }, 
+    { text: '<i class="logo-ef" style="background-image:url('+siteBase+'Resources/e-facility.svg)"></i>eFACILITY', link: '/简体中文/eFACILITY/README' },
   ], 
   sidebar: { 
       '/README': [
@@ -20,11 +22,14 @@ const ThemeConfigCn={
         ]
       } 
        ],
-       '/': [
+       '/简体中文/探索': [
         {
-          text: 'cccc',
+          text: '探索',
           items: [ 
-            { text: 'JAVA', link: '/简体中文/JAVA' }
+            { text: '元宇宙', link: '/简体中文/探索/元宇宙/README.md'  },
+            { text: 'Kafka', link: '/简体中文/探索/Kafka/README.md'  },
+            { text: 'Flutter', link: '/简体中文/探索/Flutter/README.md'  },
+            { text: 'VitePress', link: '/简体中文/探索/VitePress/README.md'} 
           ]
         } 
          ]
@@ -39,8 +44,13 @@ const ThemeConfigEn ={
   ]
 };
  
-const siteBase="/" 
+
 export default defineConfig({ 
+  vite:{ 
+    plugins:[ 
+      RemoteAssets({ assetsDir:".themekit/dist/assets" })
+    ]
+  }, 
   title: "Seedunk",  
   base:siteBase,
   themeName: "default theme + customization",
