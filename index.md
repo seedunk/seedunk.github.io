@@ -19,7 +19,7 @@
 <!--$widget: 简体中文/最新.html--> 
 ## 2025-03-07 20:00:00
  
-   ![](https://seedunk.com/media/sd-github-page/sd-kamakura-seaside-park-02.rw-224.ch-700.cy-100.jpg) 
+   ![](https://seedunk.com/media/github-seedunk/sd-kamakura-seaside-park-02.rw-221.jpg) 
       
    [视频测试](https://seedunk.com/media/github-seedunk/t9929.mp4?video=default)
  
