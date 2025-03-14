@@ -20,9 +20,11 @@
 ## 2025-03-07 20:00:00
  
    ![](https://seedunk.com/media/github-seedunk/sd-kamakura-seaside-park-02.rw-221.jpg) 
-      
-   [视频测试](https://seedunk.com/media/github-seedunk/t9929.mp4?video=default)
- 
+       
+ <video controls>
+  <source src="https://seedunk.com/media/github-seedunk/t9929.m3u8" type="application/x-mpegURL">
+  您的浏览器不支持视频播放。
+</video>
 <!--Timeline#-->
  
 
