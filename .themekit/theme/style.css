@@ -1,14 +1,12 @@
- :root { 
-  
+:root {
   --vp-c-default-1: var(--vp-c-gray-1);
   --vp-c-default-2: var(--vp-c-gray-2);
   --vp-c-default-3: var(--vp-c-gray-3);
   --vp-c-default-soft: var(--vp-c-gray-soft);
 
-  --vp-c-brand-1: var(--vp-c-indigo-1);
-  --vp-c-brand-1: #0062a7;
+  --vp-c-brand-1: #d80073;
   --vp-c-brand-2: var(--vp-c-indigo-2);
-  --vp-c-brand-3: var(--vp-c-indigo-3);
+  --vp-c-brand-3: #e91e63;
   --vp-c-brand-soft: var(--vp-c-indigo-soft);
 
   --vp-c-tip-1: var(--vp-c-brand-1);
@@ -25,6 +23,8 @@
   --vp-c-danger-2: var(--vp-c-red-2);
   --vp-c-danger-3: var(--vp-c-red-3);
   --vp-c-danger-soft: var(--vp-c-red-soft);
+
+  
 }
 
 /**
@@ -45,14 +45,13 @@
 
 /**
  * Component: Home
- * -------------------------------------------------------------------------- */
-
+ * -------------------------------------------------------------------------- */ 
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #bd34fe 30%,
-    #41d1ff
+    #bd34fe 10%,
+    #0093fb 50% 
   );
 
   --vp-home-hero-image-background-image: linear-gradient(
@@ -90,19 +89,18 @@
  * Component: Algolia
  * -------------------------------------------------------------------------- */
 
+
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
-.vp-doc{ 
-  overflow: auto;
-}
+ 
 .vp-doc p>img{ display: inline-block;}
 
 .vp-doc h1 {
   margin: 48px 0 16px;  
 }
 
-.vp-doc h2 { 
+.vp-doc1 h2 { 
   margin:0 !important;
   border-top:0;
   border-bottom: 1px solid var(--vp-c-divider);
@@ -110,6 +108,37 @@
   padding-top: 18px;
 }
 
-.vp-doc h2 .header-anchor {
-  top:18px;
+ 
+
+.hero-m9{ 
+  position: absolute;
+  bottom: -96px;
+  right: 0;
+  width: 200px; 
+  }
+
+a.btn .icon{ height:24px; }
+.dark .box-cover{  background-color: #202127 !important ;}
+
+
+.logo-ef{  color:#0062a7;
+            background-size: cover; display: inline-block; width: 20px; height: 20px; border-radius: 10px;   
+            vertical-align: middle;
+            margin-right: 3px; }
+
+.mr{     position: absolute;
+         right: 0;
+         top: 22px;
+         right: 16px;}
+
+.fr{  justify-content: right;}
+
+
+.hero-frame{   background-size: cover;  background-position: center; }
+
+a.btn {
+  padding: 0 8px; 
+}
+a.btn .icon{ 
+  border-radius: 100px; 
 }

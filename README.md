@@ -9,12 +9,12 @@
 
 <!--#Doc-->
 ## 概况
- ![iot](Resources/badge/iot.svg) ![java](Resources/badge/java.svg) ![php](Resources/badge/php.svg) ![csharp](Resources/badge/csharp.svg)  ![mysql](Resources/badge/mysql.svg) ![android](Resources/badge/android.svg) ![html5](Resources/badge/html5.svg)  ![linux](Resources/badge/linux.svg)
+ ![iot](./Resources/badge/iot.svg) ![java](./Resources/badge/java.svg) ![php](./Resources/badge/php.svg) ![csharp](./Resources/badge/csharp.svg)  ![mysql](./Resources/badge/mysql.svg) ![android](./Resources/badge/android.svg) ![html5](./Resources/badge/html5.svg)  ![linux](./Resources/badge/linux.svg)
 
  * 席日飞/男/1989/江苏常州/10年开发经验
  * 手机号 **18661120669**, 邮箱 **seedunk@outlook.com**
 
- [![](Resources/icon/github.h-18.svg?class=icon)Seedunk](https://github.com/seedunk/?class=btn%20alt)
+ [![](./Resources/icon/github.h-18.svg?class=icon)Seedunk](https://github.com/seedunk/?class=btn%20alt)
 
 
 ## 技能
@@ -30,7 +30,7 @@
 
 ## 项目
 ### RegelTEK
-  ![iot](Resources/badge/iot.svg) 
+  ![iot](./Resources/badge/iot.svg) 
  > &nbsp;&nbsp;&nbsp;&nbsp;通过传感器等感知技术，实时采集工厂中需要监控、连接、互动的物体，构建企业局域网并与互联网结合形成一个智能网络，以管理工厂中的人机料、水电气、生产进度、工艺参数、质量等各种生产要素，实现管理自动化，实现对生产过程的精确掌控。
  
 
@@ -42,7 +42,7 @@
  <br>采集数据都被汇总到数据云中，系统通过对大数据的处理和挖掘分析，做出运营优化建议和流程决策。当越来越多的设备连接在一个系统中，结果将是系统不断扩大并能自主学习，而且越来越智能化。
   
 ### 合格证打印系统开发
-![java](Resources/badge/java.svg) ![html5](Resources/badge/html5.svg) ![android](Resources/badge/android.svg)  ![php](Resources/badge/php.svg) ![mysql](Resources/badge/mysql.svg)
+![java](./Resources/badge/java.svg) ![html5](./Resources/badge/html5.svg) ![android](./Resources/badge/android.svg)  ![php](./Resources/badge/php.svg) ![mysql](./Resources/badge/mysql.svg)
 * **项目描述** 
 <br>该项目为合格证打印终端、通过在各个服务点配备自助打印终端为无法承担打印机具成本的农户或小企业提供合格证打印服务。
 
@@ -56,7 +56,7 @@
  4. 多数据源集成，系统需要将来自与不同系统中的数据进行报表展示，通过后端内部处理向前端提供统一认证的数据接口。
 
 ### 监管系统、生产管理系统维护
-![android](Resources/badge/android.svg)  ![php](Resources/badge/php.svg) ![mysql](Resources/badge/mysql.svg)
+![android](./Resources/badge/android.svg)  ![php](./Resources/badge/php.svg) ![mysql](./Resources/badge/mysql.svg)
 * **项目描述** 
  <br> 监管系统为政府职能部门提供团队维护、企业管理、监督检查、产品检测、动态发布等服务，包括信息维护、数据筛选、汇总统计等功能。
  <br> 生产管理系统为企业提供产品信息管理，生产资料管理的同时将种养植过程信息化，为企业掌握生产状态，政府监管生产过程提供了数据基础。
@@ -70,7 +70,7 @@
   3. Android本地数据库，由于行业限制监管人员要无网环境进行数据录入与图片资料存储。
 
 ### 普利荟商城
-![android](Resources/badge/android.svg) ![html5](Resources/badge/html5.svg)
+![android](./Resources/badge/android.svg) ![html5](./Resources/badge/html5.svg)
 * **项目描述** 
  <br>普利荟商城是一款专注于提供高尔夫产品和服务的商城平台。
 
@@ -83,7 +83,7 @@
 
 
 ### 扣动
- ![java](Resources/badge/java.svg)  ![linux](Resources/badge/linux.svg)
+ ![java](./Resources/badge/java.svg)  ![linux](./Resources/badge/linux.svg)
 * **项目描述** 
 <br>扣动是一款以运动为主题的社交平台，使用该应用可以快速找到同城内的运动爱好者，一起进行游戏一起比赛。
 
@@ -95,7 +95,7 @@
   2. 定时任务
 
 ### 安车信APP与门店POS系统
- ![android](Resources/badge/android.svg) ![iot](Resources/badge/iot.svg) 
+ ![android](./Resources/badge/android.svg) ![iot](./Resources/badge/iot.svg) 
 * **项目描述** 
 <br>POS系统需要与门店系统无缝连接，发明了[“利用无线wifi信号进行车辆自动识别的方法”](https://wenku.baidu.com/view/ad40c8d25527a5e9856a561252d380eb629423ab.html)的专利，实现了车辆进厂自动识别客户信息的业务需求。
 
@@ -117,7 +117,7 @@
  3. 冲正业务，支付过程中需考虑由于可不预见因素造成的流程中断进行冲正处理。
 
 ### 药厂ERP系统开发
- ![java](Resources/badge/java.svg)  ![flex](Resources/badge/flex.svg) ![oracle](Resources/badge/oracle.svg)
+ ![java](./Resources/badge/java.svg)  ![flex](./Resources/badge/flex.svg) ![oracle](./Resources/badge/oracle.svg)
 * **项目描述** 
 <br>为该药厂安全与生产管理部门开发支持自定义表单的ERP管理系统，该系统提供工厂地图导航、基础对象管理、KPI报表等、自定义表单的功能。
 
@@ -131,7 +131,7 @@
   4. Oracle数据库的配置与使用
 
 ### 光伏电站系统
- ![java](Resources/badge/java.svg)  ![iot](Resources/badge/iot.svg)   ![mysql](Resources/badge/mysql.svg) ![csharp](Resources/badge/csharp.svg) 
+ ![java](./Resources/badge/java.svg)  ![iot](./Resources/badge/iot.svg)   ![mysql](./Resources/badge/mysql.svg) ![csharp](./Resources/badge/csharp.svg) 
  * **项目描述**  
  <br>通过应用先进的物联网和无线通讯技术等，将逆变器数据发送到数据中心进行统计与分析。
 
