@@ -46,19 +46,22 @@ const ThemeConfigEn ={
  
 
 export default defineConfig({ 
-  vite:{ 
-    server: {
-       watch: { ignored: ['**/*.m3u8'] }
-     },
-     assetsInclude: ['**/*.m3u8', '**/*.vts'], 
-      
+  vite:{  
+       assetsInclude: ['**/*.m3u8', '**/*.vts'],  
       build: {
+        assetsInlineLimit:0,
         rollupOptions: {
           external: [/\.m3u8$/]
         }
       },
     plugins:[ 
-       RemoteAssets({ assetsDir:".themekit/dist/assets" })
+       RemoteAssets({ assetsDir:".themekit/dist/assets", 
+              rules: [
+                {
+                  match: /\.(m3u8|ts|vts)$/ 
+                }
+              ]   
+      })
     ] 
   }, 
   title: "Seedunk",  
