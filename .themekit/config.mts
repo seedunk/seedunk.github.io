@@ -11,7 +11,7 @@ const ThemeConfigCn={
     { text: '关于我', link: '/README' }, 
     { text: '开发人员', link: '/简体中文/开发人员/README' },
     { text: 'SLAMDUNK', link: '/简体中文/SLAMDUNK/README' }, 
-    { text: '<i class="logo-ef" style="background-image:url('+siteBase+'Resources/e-facility.svg)"></i>eFACILITY', link: '/简体中文/eFACILITY/README' },
+    { text: '<i class="logo-ef" style="background-image:url('+siteBase+'Resources/logo/eFACILITY.svg)"></i>eFACILITY', link: '/简体中文/eFACILITY/README' },
   ], 
   sidebar: { 
       '/README': [
@@ -49,7 +49,7 @@ export default defineConfig({
   vite:{ 
     plugins:[ 
        RemoteAssets({ assetsDir:".themekit/dist/assets" })
-    ]
+    ] 
   }, 
   title: "Seedunk",  
   base:siteBase,

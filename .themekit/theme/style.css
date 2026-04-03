@@ -121,10 +121,13 @@ a.btn .icon{ height:24px; }
 .dark .box-cover{  background-color: #202127 !important ;}
 
 
-.logo-ef{  color:#0062a7;
-            background-size: cover; display: inline-block; width: 20px; height: 20px; border-radius: 10px;   
-            vertical-align: middle;
-            margin-right: 3px; }
+.logo-ef{    color:#0062a7;
+             background-size: cover; display: inline-block;
+             width: 20px; height: 20px; border-radius: 10px;   
+             vertical-align: middle;
+             margin-right: 2px; 
+             margin-top:-2px; 
+            }
 
 .mr{     position: absolute;
          right: 0;

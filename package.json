@@ -6,8 +6,8 @@
   },
   "dependencies": {
     "markdown-it": "^14.1.0",
-    "themekit-js": "^1.503.1914",
+    "themekit-js": "^1.2603.1300",
     "vite-plugin-remote-assets": "^0.4.1"
   },
-  "note_themekit-js": "file:../com.seedunk.test/themekit-js"
+  "note_themekit-js": "file:../themekit-js"
 }

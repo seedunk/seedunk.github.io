@@ -9,10 +9,11 @@
 
 <!--#Doc-->
 ## 概况
- ![iot](./Resources/badge/iot.svg) ![java](./Resources/badge/java.svg) ![php](./Resources/badge/php.svg) ![csharp](./Resources/badge/csharp.svg)  ![mysql](./Resources/badge/mysql.svg) ![android](./Resources/badge/android.svg) ![html5](./Resources/badge/html5.svg)  ![linux](./Resources/badge/linux.svg)
-
- * 席日飞/男/1989/江苏常州/10年开发经验
+ 
+ * 席日飞/男/1989/江苏常州
  * 手机号 **18661120669**, 邮箱 **seedunk@outlook.com**
+ * 技术栈<br>
+   ![iot](./Resources/badge/iot.svg) ![java](./Resources/badge/java.svg) ![php](./Resources/badge/php.svg) ![csharp](./Resources/badge/csharp.svg)  ![mysql](./Resources/badge/mysql.svg) ![android](./Resources/badge/android.svg) ![html5](./Resources/badge/html5.svg)  ![linux](./Resources/badge/linux.svg)
 
  [![](./Resources/icon/github.h-18.svg?class=icon)Seedunk](https://github.com/seedunk/?class=btn%20alt)
 
@@ -22,12 +23,7 @@
  * **后端技术** 熟练掌握Java/PHP等主流开发语言，基础知识扎实、掌握主流框架使用、工具类库全面开发敏捷。能快速排查问题项目经验丰富。
  * **数据库** 熟练掌握MySQL数据库以及常见优化手段（索引、SQL优化、读写分离等）,Redis使用经验丰富。
  * **服务器** 熟练掌握windows/linux环境下的nginx,apache等服务器的配置使用。
-
-## 产品
-### eFACILITY
-
- 
-
+  
 ## 项目
 ### RegelTEK
   ![iot](./Resources/badge/iot.svg) 

@@ -4,16 +4,17 @@
 <!--$ja_JP: /日本語/eFACILITY/README.html-->
  
 <!--#Hero--> 
-<!--$background-color:#1e0066-->  
-<!--$color:#fff-->
- ## 工业设备维护专家  
- # eFACILITY  
-   [了解更多](?theme=brand)
+<!--$background-color:#f2f2f2-->  
+<!--$color:#333333-->
+ ## eFACILITY
+  工业设备维护专家  
+  
+ [![](/Resources/icon/github.h-18.c-0xffffff.svg?class=icon)开源软件](https://github.com/e-facility/?class=btn%20brand)
     
 <!--Hero #-->
 <!--#Doc-->  
  
-   [![](/Resources/icon/github.svg?class=icon)开源软件](https://github.com/seedunk/?class=btn%20alt)
+  
 <!--Doc #-->
   
 
