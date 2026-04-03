@@ -48,6 +48,14 @@ const ThemeConfigEn ={
 export default defineConfig({ 
   vite:{  
        assetsInclude: ['**/*.m3u8', '**/*.vts'],  
+        experimental: {
+        importGlobRestoreExtension: true, 
+         renderBuiltUrl(filename: string) {
+          if (/\.(m3u8|vts)$/i.test(filename)) {
+            return { runtime: `import.meta.env.BASE_URL + 'assets/${filename}'` }
+          }
+        }   
+      },
       build: {
         assetsInlineLimit:0,
         rollupOptions: {
@@ -58,7 +66,10 @@ export default defineConfig({
        RemoteAssets({ assetsDir:".themekit/dist/assets", 
               rules: [
                 {
-                  match: /\.(m3u8|ts|vts)$/ 
+                  match: /^https?:\/\//
+                },
+                {
+                  match: /^http?:\/\//
                 }
               ]   
       })
