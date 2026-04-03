@@ -50,7 +50,8 @@ export default defineConfig({
     server: {
        watch: { ignored: ['**/*.m3u8'] }
      },
-     
+     assetsInclude: ['**/*.m3u8', '**/*.vts'], 
+      
       build: {
         rollupOptions: {
           external: [/\.m3u8$/]
