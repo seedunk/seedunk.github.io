@@ -47,6 +47,15 @@ const ThemeConfigEn ={
 
 export default defineConfig({ 
   vite:{ 
+    server: {
+       watch: { ignored: ['**/*.m3u8'] }
+     },
+     
+      build: {
+        rollupOptions: {
+          external: [/\.m3u8$/]
+        }
+      },
     plugins:[ 
        RemoteAssets({ assetsDir:".themekit/dist/assets" })
     ] 

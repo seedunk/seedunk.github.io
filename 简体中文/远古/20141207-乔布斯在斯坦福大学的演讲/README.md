@@ -3,7 +3,7 @@ Steve Jobs:
 
 [2014-12-07 22:24:11](#data.create_time)<br>
 
-[斯坦福演讲](在斯坦福大学的演讲.mp4#video.mp4)
+
 
 This is the text of the Commencement address by Steve Jobs, CEO of Apple Computer and of Pixar Animation Studios, delivered on June 12, 2005. 
 
