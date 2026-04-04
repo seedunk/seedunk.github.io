@@ -1,10 +1,18 @@
-Steve Jobs: 
+<!--$layout:block--> 
+<!--#Hero--> 
+<!--$background-image:./banner.jpg-->  
+<!--$color:#ffffff--> 
+
+## Steve Jobs
+# Stay Hungry. Stay Foolish. 
+   
+<!--Hero #--> 
+<!--#Doc-->  
+   
 > 你必须要找到你所爱的东西 
 
 [2014-12-07 22:24:11](#data.create_time)<br>
-
-
-
+ 
 This is the text of the Commencement address by Steve Jobs, CEO of Apple Computer and of Pixar Animation Studios, delivered on June 12, 2005. 
 
 这是苹果公司和Pixar动画工作室的CEO Steve Jobs于2005年6月12号在斯坦福大学的毕业典礼上面的演讲稿。  
@@ -109,3 +117,4 @@ Stewart和他的伙伴出版了几期的“整个地球的目录”,当它完成
 
 >Thank you all very much.  
 谢谢
+<!--Doc #-->

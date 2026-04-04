@@ -18,6 +18,18 @@
     [查看更多](/简体中文/SLAMDUNK/神奈川.md?theme=brand&class=right%20bottom) 
  <!--Features #-->
   
+
+  
+<!--#Features-->
+<!--$class:mt--> 
+  * ## 木暮日记
+ 
+    [查看更多](/简体中文/SLAMDUNK/@木暮公延/暑假集训结束/README.md?theme=brand&class=right%20bottom) 
+
+ 
+ <!--Features #-->
+
+
  <!--#DocWithCatalog-->  
  <!--$lang: zh_CN-->  
  [2025-03-14 11:54](#timeago)
