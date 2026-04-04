@@ -46,34 +46,14 @@ const ThemeConfigEn ={
  
 
 export default defineConfig({ 
-  vite:{  
-       assetsInclude: ['**/*.m3u8', '**/*.vts'],  
-        experimental: {
-        importGlobRestoreExtension: true, 
-         renderBuiltUrl(filename: string) {
-          if (/\.(m3u8|vts)$/i.test(filename)) {
-            return { runtime: `import.meta.env.BASE_URL + 'assets/${filename}'` }
-          }
-        }   
-      },
+  vite:{       
+      assetsInclude: ['*.m3u8', '*.vts'],  
       build: {
-        assetsInlineLimit:0,
-        rollupOptions: {
-          external: [/\.m3u8$/]
-        }
+          assetsInlineLimit:0  
       },
-    plugins:[ 
-       RemoteAssets({ assetsDir:".themekit/dist/assets", 
-              rules: [
-                {
-                  match: /^https?:\/\//
-                },
-                {
-                  match: /^http?:\/\//
-                }
-              ]   
-      })
-    ] 
+      plugins:[ 
+         RemoteAssets({ assetsDir:".themekit/dist/assets"  })
+      ] 
   }, 
   title: "Seedunk",  
   base:siteBase,

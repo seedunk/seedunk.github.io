@@ -6,5 +6,5 @@
 <!--#Doc--> 
 # 元宇宙
 
-![](https://seedunk.com/media/sd-github-page/metaverse-readme-map.dist.png)
+ [https://seedunk.com/media/sd-github-page/metaverse-readme-map.dist.png](#)
 <!--Doc#--> 

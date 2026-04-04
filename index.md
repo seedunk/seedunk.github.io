@@ -34,4 +34,6 @@
  
 <!--Features #-->
 
-  [poster](./简体中文/远古/20141207-乔布斯在斯坦福大学的演讲/video/video.m3u8?class=video&m3u8=self)
+<!--#Doc-->
+  [poster](./简体中文/远古/20141207-乔布斯在斯坦福大学的演讲/video/video.m3u8?class=video&m3u8=self) 
+<!--Doc#-->
