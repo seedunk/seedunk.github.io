@@ -1,3 +1,6 @@
+<!--$layout:block--> 
+
+<!--#Doc--> 
 # 暑假集训结束
 [![](https://seedunk.com/media/sd-file/avatar/@kogure-kiminobu.rw-20.jpg)木暮公延](/简体中文/SLAMDUNK/@木暮公延/README.md)
 
@@ -12,3 +15,5 @@
     我竟然有机会参加全国大赛<br>
     这都是因为有了一帮好球员的加入<br> 
     谢谢大家了
+
+<!--Doc#-->
